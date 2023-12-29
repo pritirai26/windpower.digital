@@ -1,0 +1,2 @@
+# windpower.digital
+trading
